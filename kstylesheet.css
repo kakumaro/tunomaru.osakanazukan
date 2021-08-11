@@ -1,0 +1,147 @@
+body{
+  font-family:serif
+}
+main{
+  width: 1170px;
+  height:550px;
+  margin:auto;
+  text-align:center;
+  background-image:url( https://aquastyleinfo.com/wp-content/uploads/2019/04/a2d1b2d2e274d7a00d6fd559f28b848f_m-1024x605.jpg);
+  background-size: cover;
+}
+a {
+  text-decoration: none;
+}
+
+
+.main-tittle{
+  color:aliceblue;
+  padding-top: 100px;
+  padding-bottom: 50px;
+}
+
+.main-tittle h1{
+  font-size: 65px;
+  
+}
+
+.main-tittle p{
+  font-size: 20px;
+  opacity: 0.8;
+}
+
+.btn{
+  color:white;
+  font-size: 40px;
+  display: inline-block;
+  margin: 0 20px;
+  padding: 8px 24px;
+  border-radius: 4px;
+  
+}
+.btn:hover{
+  cursor:pointer;
+}
+
+.twitter{
+  background-color: #55acee;
+  
+}
+.youtube{
+  background-color: red;
+  
+}
+
+.top-wrapper{
+  width: 1170px;
+  margin:auto;
+}
+.river-picter{
+  height: 1000px;
+}
+
+.river-wrapper h2{
+  font-size: 40px;
+  border-bottom: 2px solid rgb(0, 0, 0);
+}
+
+.fish img{
+  width: 350px;
+  height: 197px;
+  padding: 0%;
+  margin: 0%;
+}
+
+.fish h3{
+  font-size: 30px;
+  padding: 0%;
+  margin: 0%;
+  border-bottom: 1px solid rgb(145, 140, 140);
+}
+
+.fish p{
+  padding: 0%;
+  margin: 0%;
+}
+
+.fish{
+  float:left;
+}
+
+.sea-wrapper h2{
+  font-size: 40px;
+  border-bottom: 2px solid rgb(0, 0, 0);
+}
+
+.fish-over h3{
+  font-size: 20px;
+  padding-bottom: 15px;
+  margin: 0%;
+  border-bottom: 1px solid rgb(145, 140, 140);
+
+}
+
+.fish-over p{
+  padding: 0%;
+  margin: 0%;
+}
+
+.fish-over img{
+  width: 350px;
+  height: 197px;
+  padding: 0%;
+  margin: 0%;
+}
+
+.container img{
+  width: 125px;
+  height: 30px;
+  padding: 0%;
+  margin: 0%;
+}
+
+.container h2{
+  padding: 0%;
+  margin: 0%;
+}
+.container p{
+  color:#b3aeb5;
+  font-size: 12px;
+  padding: 0%;
+  margin-bottom: 50px;
+}
+
+.container{
+  text-align: center;
+  padding: 100px 0 0 0;
+  margin: 0%;
+}
+
+.go{
+  background-color: forestgreen;
+}
+
+footer{
+  float:left;
+
+}
